@@ -1,0 +1,22 @@
+1) Criar uma pasta e nomeia a pasta com o nome do projeto.
+2)Abrir a pasta com o code
+
+3)installar a biblioteca - pysimplegui e pyinstaller (Se nao tiver instalado)
+	-Como baixar?
+		-Abrir o terminal.
+		-pip install pysimplegui
+		-pip install pyinstaller
+		-pip install pyautogui
+
+4) Cria uma pasta chamada source no projeto.
+
+5) Adicione um arquivo.
+
+
+
+-------- Projeto Pysimplegui -------------
+
+6) Importar as bibliotecas
+
+	-import PySimpleGUI as sg
+	-import pyautogui as bot
